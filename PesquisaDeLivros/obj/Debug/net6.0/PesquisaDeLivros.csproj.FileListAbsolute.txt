@@ -1,0 +1,5 @@
+C:\Users\BLUIZA\OneDrive - Ultradent Products Inc\Desktop\TI\WCC\aulagit\WCC6\PesquisaDeLivros\PesquisaDeLivros\obj\Debug\net6.0\PesquisaDeLivros.csproj.AssemblyReference.cache
+C:\Users\BLUIZA\OneDrive - Ultradent Products Inc\Desktop\TI\WCC\aulagit\WCC6\PesquisaDeLivros\PesquisaDeLivros\obj\Debug\net6.0\PesquisaDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUIZA\OneDrive - Ultradent Products Inc\Desktop\TI\WCC\aulagit\WCC6\PesquisaDeLivros\PesquisaDeLivros\obj\Debug\net6.0\PesquisaDeLivros.AssemblyInfoInputs.cache
+C:\Users\BLUIZA\OneDrive - Ultradent Products Inc\Desktop\TI\WCC\aulagit\WCC6\PesquisaDeLivros\PesquisaDeLivros\obj\Debug\net6.0\PesquisaDeLivros.AssemblyInfo.cs
+C:\Users\BLUIZA\OneDrive - Ultradent Products Inc\Desktop\TI\WCC\aulagit\WCC6\PesquisaDeLivros\PesquisaDeLivros\obj\Debug\net6.0\PesquisaDeLivros.csproj.CoreCompileInputs.cache
